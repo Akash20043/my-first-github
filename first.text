@@ -1,0 +1,10 @@
+# one time each project to start git
+git init
+# 2.every time to add
+git add .
+
+# every time you commit
+git commit -m "first commit"
+git branch -M main
+te add ogit remorigin https://github.com/Akash20043/my-first-github.
+git push -u origin main
